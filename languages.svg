@@ -1,0 +1,62 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-name { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .fade-in { animation: fadein 1s ease-in-out both; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+
+  <rect width="495" height="195" rx="4.5" fill="#1a1b27" />
+
+  <g transform="translate(25, 35)" class="fade-in">
+    <text class="header" y="0">Most Used Languages</text>
+  </g>
+
+  <g transform="translate(25, 60)" class="fade-in">
+    <defs>
+      <clipPath id="bar-clip">
+        <rect x="0" y="0" width="445" height="8" rx="4" ry="4" />
+      </clipPath>
+    </defs>
+    <g clip-path="url(#bar-clip)">
+      <rect x="0"     y="0" width="214.5" height="8" fill="#339933" />
+      <rect x="214.5" y="0" width="118.8" height="8" fill="#3572A5" />
+      <rect x="333.3" y="0" width="58.3"  height="8" fill="#41b883" />
+      <rect x="391.6" y="0" width="21.4"  height="8" fill="#cb171e" />
+      <rect x="413.0" y="0" width="13.8"  height="8" fill="#2496ED" />
+      <rect x="426.8" y="0" width="8.9"   height="8" fill="#e38c00" />
+      <rect x="435.7" y="0" width="9.3"   height="8" fill="#858585" />
+    </g>
+  </g>
+
+  <g transform="translate(25, 95)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#339933" />
+    <text class="lang-name" x="20" y="10">Node.js 48.2%</text>
+  </g>
+  <g transform="translate(25, 120)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#3572A5" />
+    <text class="lang-name" x="20" y="10">Python 26.7%</text>
+  </g>
+  <g transform="translate(25, 145)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#41b883" />
+    <text class="lang-name" x="20" y="10">Vue.js 13.1%</text>
+  </g>
+
+  <g transform="translate(180, 95)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#cb171e" />
+    <text class="lang-name" x="20" y="10">YAML 4.8%</text>
+  </g>
+  <g transform="translate(180, 120)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#2496ED" />
+    <text class="lang-name" x="20" y="10">Docker 3.1%</text>
+  </g>
+  <g transform="translate(180, 145)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#e38c00" />
+    <text class="lang-name" x="20" y="10">SQL 2.0%</text>
+  </g>
+
+  <g transform="translate(335, 95)" class="fade-in">
+    <circle cx="6" cy="6" r="5" fill="#858585" />
+    <text class="lang-name" x="20" y="10">Other 2.1%</text>
+  </g>
+</svg>
