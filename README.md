@@ -11,7 +11,7 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomarceloctl&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-8gt6.vercel.app/api?username=joaomarceloctl&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" height="170" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaomarceloctl&theme=tokyonight" height="170" />
 </p>
@@ -28,24 +28,18 @@
 
 <h3 align="center">Daily contributions</h3>
 
-<div align="center">
+<p align="center">
+  <sub>
+    Jun &nbsp;·&nbsp; Jul &nbsp;·&nbsp; Aug &nbsp;·&nbsp; Sep &nbsp;·&nbsp; Oct &nbsp;·&nbsp; Nov &nbsp;·&nbsp; Dec &nbsp;·&nbsp; Jan &nbsp;·&nbsp; Feb &nbsp;·&nbsp; Mar &nbsp;·&nbsp; Apr &nbsp;·&nbsp; May
+  </sub>
+</p>
 
-<details open>
-  <summary><b>&nbsp; 2026 &nbsp;</b></summary>
-  <br />
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomarceloctl/joaomarceloctl/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomarceloctl/joaomarceloctl/output/github-contribution-grid-snake.svg" />
-    <img alt="2026 contribution snake" src="https://raw.githubusercontent.com/joaomarceloctl/joaomarceloctl/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/joaomarceloctl/joaomarceloctl/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</details>
-
-<details>
-  <summary><b>&nbsp; 2025 &nbsp;</b></summary>
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaomarceloctl&theme=react-dark&hide_border=true&hide_title=true&area=true&radius=4&custom_title=2025+activity" alt="2025 activity" />
-</details>
-
-</div>
+</p>
 
 <br />
