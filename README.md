@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats-8gt6.vercel.app/api?username=joaomarceloctl&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" height="170" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaomarceloctl&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-8gt6.vercel.app/api/wakatime?username=joaomarceloctl&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=6" height="170" />
 </p>
 
 <p align="center">
