@@ -13,14 +13,38 @@
 <p align="center">
   <img src="https://github-readme-stats-8gt6.vercel.app/api?username=joaomarceloctl&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide_title=true&show_icons=true" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-8gt6.vercel.app/api/wakatime?username=joaomarceloctl&theme=tokyonight&hide_border=true&hide_title=true&layout=compact&langs_count=6" height="170" />
+  <img src="https://streak-stats.demolab.com?user=joaomarceloctl&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaomarceloctl&hide_border=true&theme=tokyonight" height="170" />
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaomarceloctl&theme=tokyonight&utcOffset=-3" height="170" />
 </p>
+
+<br />
+
+<h3 align="center">Most used languages</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```text
+Node.js       ██████████████░░░░░░░░░░░░░░░░   48.2 %
+Python        ████████░░░░░░░░░░░░░░░░░░░░░░   26.7 %
+Vue.js        ████░░░░░░░░░░░░░░░░░░░░░░░░░░   13.1 %
+YAML          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.8 %
+Docker        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3.1 %
+SQL           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.0 %
+Other         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.1 %
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br />
 
