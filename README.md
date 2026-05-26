@@ -1,20 +1,3 @@
-<div align="center">
-  <br />
-
-  <h1>João Marcelo</h1>
-
-  <p>
-    <em>Backend &nbsp;·&nbsp; Data &nbsp;·&nbsp; CRM Dev</em>
-  </p>
-
-  <sub>Building data pipelines, internal flows, and automations inside CRMs like <b>Bitrix24</b> — backed by GCP &amp; AWS.</sub>
-
-  <br />
-  <br />
-</div>
-
----
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
