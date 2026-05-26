@@ -11,13 +11,15 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaomarceloctl&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_title=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaomarceloctl&theme=tokyonight" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarceloctl&hide_border=true&layout=compact&theme=tokyonight&hide_title=true&langs_count=6" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaomarceloctl&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaomarceloctl&hide_border=true&theme=tokyonight" height="170" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaomarceloctl&theme=tokyonight&utcOffset=-3" height="170" />
 </p>
 
 <br />
